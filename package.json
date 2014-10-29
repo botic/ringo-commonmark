@@ -19,6 +19,10 @@
            "url": "https://github.com/botic/ringo-commonmark/blob/master/LICENSE"
        }
    ],
+   "repositories": [{
+      "type": "git",
+      "url": "https://github.com/botic/ringo-commonmark.git"
+    }],
    "engines": {
        "ringojs": ">= 0.10"
    },
