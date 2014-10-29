@@ -1,0 +1,26 @@
+{
+   "name": "ringo-commonmark",
+   "version": "0.1",
+   "description": "A port of the CommonMark markdown parser.",
+   "homepage": "",
+   "keywords": [
+       "markdown",
+       "commonmark",
+       "parser"
+   ],
+   "author": "Philipp Naderer",
+   "contributors": [
+       "John MacFarlane / CommonMark"
+   ],
+   "bugs": "http://github.com/botic/ringo-commonmark/issues",
+   "licenses": [
+       {
+           "type": "BSD3",
+           "url": "https://github.com/botic/ringo-commonmark/blob/master/LICENSE"
+       }
+   ],
+   "engines": {
+       "ringojs": ">= 0.10"
+   },
+   "main": "lib/index.js"
+}
