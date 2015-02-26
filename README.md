@@ -5,7 +5,7 @@ A port of the [CommonMark](http://commonmark.org/) markdown parser. The original
 # Example
 
 ```
-var md = require("ringo-commonmark");
+var md = require("commonmark");
 md.process("# Headline\nTest\n\n* One\n* Two");
 ```
 
