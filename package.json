@@ -1,6 +1,6 @@
 {
-   "name": "ringo-commonmark",
-   "version": "0.2.0",
+   "name": "commonmark",
+   "version": "0.17.1",
    "description": "A port of the CommonMark markdown parser.",
    "homepage": "",
    "keywords": [
