@@ -1,6 +1,6 @@
 # ringo-commonmark
 
-A port of the [CommonMark](http://commonmark.org/) markdown parser. The original source of the parser can be found at [jgm/CommonMark](https://github.com/jgm/CommonMark).
+A port of the [CommonMark](http://commonmark.org/) markdown parser. The original source of the parser can be found at [jgm/commonmark.js](https://github.com/jgm/commonmark.js).
 
 # Example
 
