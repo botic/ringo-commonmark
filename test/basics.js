@@ -50,5 +50,5 @@ exports.testEdgeCases = function() {
 
 
 if (require.main == module.id) {
-   require("system").exit(require("test").run("./basics"));
+   require("system").exit(require("test").run(module.resolve("./basics")));
 }
